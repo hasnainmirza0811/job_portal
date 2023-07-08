@@ -1,0 +1,128 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update sys_domain="global" table="sys_app_module">
+    <sys_app_module action="DELETE">
+        <active>true</active>
+        <application display_value="Job Portal">8aaacfe59773611086effac6f053af38</application>
+        <assessment/>
+        <device_type/>
+        <filter/>
+        <hint/>
+        <homepage/>
+        <image/>
+        <link_type>NEW</link_type>
+        <map_page/>
+        <mobile_title>Create New</mobile_title>
+        <mobile_view_name>Mobile</mobile_view_name>
+        <name>ecc_action</name>
+        <order>2</order>
+        <override_menu_roles>false</override_menu_roles>
+        <query/>
+        <report/>
+        <roles/>
+        <sys_class_name>sys_app_module</sys_class_name>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2023-07-03 04:37:09</sys_created_on>
+        <sys_domain>global</sys_domain>
+        <sys_domain_path>/</sys_domain_path>
+        <sys_id>0eaa8fa99773611086effac6f053afb7</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_name>Create New</sys_name>
+        <sys_overrides/>
+        <sys_package display_value="Job Portal" source="x_872573_job_porta">1f7a0fa99773611086effac6f053af0c</sys_package>
+        <sys_policy/>
+        <sys_scope display_value="Job Portal">1f7a0fa99773611086effac6f053af0c</sys_scope>
+        <sys_update_name>sys_app_module_0eaa8fa99773611086effac6f053afb7</sys_update_name>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2023-07-03 04:37:09</sys_updated_on>
+        <timeline_page/>
+        <title>Create New</title>
+        <uncancelable>false</uncancelable>
+        <view_name/>
+        <window_name/>
+    </sys_app_module>
+<sys_update_version action="INSERT_OR_UPDATE">
+        <action>DELETE</action>
+        <application display_value="Job Portal">1f7a0fa99773611086effac6f053af0c</application>
+        <file_path/>
+        <instance_id>89e5544ddb21e9503050ac44d496190f</instance_id>
+        <instance_name>dev163141</instance_name>
+        <name>sys_app_module_0eaa8fa99773611086effac6f053afb7</name>
+        <payload><![CDATA[<?xml version="1.0" encoding="UTF-8"?><record_update sys_domain="global" table="sys_app_module">
+    <sys_app_module action="INSERT_OR_UPDATE">
+        <active>true</active>
+        <application display_value="Job Portal">8aaacfe59773611086effac6f053af38</application>
+        <assessment/>
+        <device_type/>
+        <filter/>
+        <hint/>
+        <homepage/>
+        <image/>
+        <link_type>NEW</link_type>
+        <map_page/>
+        <mobile_title>Create New</mobile_title>
+        <mobile_view_name>Mobile</mobile_view_name>
+        <name>ecc_action</name>
+        <order>2</order>
+        <override_menu_roles>false</override_menu_roles>
+        <query/>
+        <report/>
+        <roles/>
+        <sys_class_name>sys_app_module</sys_class_name>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2023-07-03 04:37:09</sys_created_on>
+        <sys_domain>global</sys_domain>
+        <sys_domain_path>/</sys_domain_path>
+        <sys_id>0eaa8fa99773611086effac6f053afb7</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_name>Create New</sys_name>
+        <sys_overrides/>
+        <sys_package display_value="Job Portal" source="x_872573_job_porta">1f7a0fa99773611086effac6f053af0c</sys_package>
+        <sys_policy/>
+        <sys_scope display_value="Job Portal">1f7a0fa99773611086effac6f053af0c</sys_scope>
+        <sys_update_name>sys_app_module_0eaa8fa99773611086effac6f053afb7</sys_update_name>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2023-07-03 04:37:09</sys_updated_on>
+        <timeline_page/>
+        <title>Create New</title>
+        <uncancelable>false</uncancelable>
+        <view_name/>
+        <window_name/>
+    </sys_app_module>
+</record_update>]]></payload>
+        <payload_hash>-592115908</payload_hash>
+        <record_name>Create New</record_name>
+        <reverted_from/>
+        <source>19e1b0569733211086effac6f053afa9</source>
+        <source_table>sys_upgrade_history</source_table>
+        <state>previous</state>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2023-07-05 01:25:11</sys_created_on>
+        <sys_id>75e1f0569733211086effac6f053af48</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_recorded_at>18923a743cc0000001</sys_recorded_at>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2023-07-05 01:25:11</sys_updated_on>
+        <type>Module</type>
+        <update_guid>71e1f0560a332110abe86a69bc210348</update_guid>
+        <update_guid_history>71e1f0560a332110abe86a69bc210348:0,9d413816fe332110b9edca742ee74752:1256921975,4eaa8fa9b973611072bb9219309e49b8:-1035218388</update_guid_history>
+    </sys_update_version>
+    <sys_metadata_delete action="INSERT_OR_UPDATE">
+        <sys_audit_delete display_value="Create New">7dea1e179733611086effac6f053af49</sys_audit_delete>
+        <sys_class_name>sys_metadata_delete</sys_class_name>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2023-07-08 11:37:52</sys_created_on>
+        <sys_db_object display_value="" name="sys_app_module">sys_app_module</sys_db_object>
+        <sys_id>daaedd2eb2734daca3f7653f14e8aec4</sys_id>
+        <sys_metadata>0eaa8fa99773611086effac6f053afb7</sys_metadata>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_name>Create New</sys_name>
+        <sys_package display_value="Job Portal" source="x_872573_job_porta">1f7a0fa99773611086effac6f053af0c</sys_package>
+        <sys_parent/>
+        <sys_policy/>
+        <sys_scope display_value="Job Portal">1f7a0fa99773611086effac6f053af0c</sys_scope>
+        <sys_scope_delete display_value="">04ca664a70f9462db305ba1d42b944f1</sys_scope_delete>
+        <sys_update_name>sys_app_module_0eaa8fa99773611086effac6f053afb7</sys_update_name>
+        <sys_update_version display_value="sys_app_module_0eaa8fa99773611086effac6f053afb7">75e1f0569733211086effac6f053af48</sys_update_version>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2023-07-08 11:37:52</sys_updated_on>
+    </sys_metadata_delete>
+</record_update>
